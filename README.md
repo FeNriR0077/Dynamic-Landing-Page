@@ -6,6 +6,10 @@ Morning:
 ![image](https://user-images.githubusercontent.com/57618183/204749861-fa635b07-3567-48fa-b933-9f76a4a06b10.png)
 
 Afternoon:
+![image](https://user-images.githubusercontent.com/57618183/204750093-364f4f40-94e8-48ef-8684-853f0cd031f5.png)
+
+Evening:
+![image](https://user-images.githubusercontent.com/57618183/204750263-a742e675-b819-4d80-96c6-b81257cac3cd.png)
 
 
 
