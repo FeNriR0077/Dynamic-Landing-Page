@@ -1,8 +1,12 @@
 # Dynamic-Landing-Page
 
 Index Page:
-![image](https://user-images.githubusercontent.com/57618183/204748531-db14195c-51df-457e-8b86-554a97168da1.png)
-![image](https://user-images.githubusercontent.com/57618183/204748726-1cc44f5e-bf2b-45ed-81a5-e55bd893a09f.png)
+
+Morning:
+![image](https://user-images.githubusercontent.com/57618183/204749861-fa635b07-3567-48fa-b933-9f76a4a06b10.png)
+
+Afternoon:
+
 
 
 Features:
