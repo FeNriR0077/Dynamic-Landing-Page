@@ -15,7 +15,7 @@ Evening:
 
 Features:
 1. Has time that updateds every second.
-2. Greetes you on basis of morning, afternoon and evening.
+2. Greets you on basis of morning, afternoon and evening.
 3. Changes background based on the timing of the day.
 4. Stores your name in local storage so that you do not have to keep on writing it again. (Can be editted!)
 5. Basic CSS responsive design.
